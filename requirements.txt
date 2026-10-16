@@ -1,0 +1,2 @@
+# requirements for tests
+pytest>=7.0

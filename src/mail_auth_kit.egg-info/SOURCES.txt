@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/mail_auth_kit/__init__.py
+src/mail_auth_kit/__main__.py
+src/mail_auth_kit/cli.py
+src/mail_auth_kit.egg-info/PKG-INFO
+src/mail_auth_kit.egg-info/SOURCES.txt
+src/mail_auth_kit.egg-info/dependency_links.txt
+src/mail_auth_kit.egg-info/entry_points.txt
+src/mail_auth_kit.egg-info/top_level.txt
+tests/test_health.py

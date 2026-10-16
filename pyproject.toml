@@ -1,0 +1,14 @@
+[project]
+name = "mail-auth-kit"
+version = "0.1.0"
+description = "CLI tool to generate SPF, DKIM, DMARC records for solo founders. Signature: Mourad.Soltani"
+authors = [{name = "Mourad.Soltani"}]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+mail-auth-kit = "mail_auth_kit.cli:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]

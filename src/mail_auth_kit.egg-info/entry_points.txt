@@ -1,0 +1,2 @@
+[console_scripts]
+mail-auth-kit = mail_auth_kit.cli:main
